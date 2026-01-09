@@ -1,2 +1,4 @@
 # logo
-Projeto de identidade visual desenvolvido no Figma para a marca fictícia EXTREMO, voltada para desportos radicais outdoor. O logotipo e a aplicação gráfica em T-shirt refletem o espírito de aventura, lazer e contacto com a natureza, conforme o briefing proposto.
+Projeto académico desenvolvido durante o curso de UI/UX Design.
+Este é um exercício prático de identidade visual para a marca fictícia EXTREMO, com aplicação gráfica em T-shirt.
+Trata-se de um dos meus primeiros projetos, criado com o objetivo de praticar e aplicar conceitos aprendidos em aula.
